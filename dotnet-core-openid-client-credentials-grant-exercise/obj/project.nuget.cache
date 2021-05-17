@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXoQDbFPunYK4fUhtWJhBcj5HUhzlh6ck5/gXSiclThHhNPcpmeg0u8PidbFKfjdbVlah1YEsf5FheWZ/ob4Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chase\\source\\repos\\dotnet-core-openid-client-credentials-grant-exercise\\dotnet-core-openid-client-credentials-grant-exercise\\dotnet-core-openid-client-credentials-grant-exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chase\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
